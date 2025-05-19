@@ -1,0 +1,5 @@
+1. npm i (node modules)
+2. npx sequelize-cli db:create (create db. jagan lupa ganti config) 
+3. npx sequelize db:migrate (jalanin migration)
+4. npx tsc dataDummy.ts (buat masukin data dummy ke database)
+5. npx tsc ./src/app.ts (run backend"")
